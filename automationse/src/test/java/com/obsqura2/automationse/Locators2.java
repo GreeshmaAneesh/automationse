@@ -171,7 +171,7 @@ public class Locators2 extends Base2 {
 			locators2.locateByLinkText();
 			locators2.locateByPartialLinkText();
 			locators2.locateByXpath();
-			locators2.axesMethod();
+			//locators2.axesMethod();
 			locators2.driverCloseOrQuit();
 			
 			
